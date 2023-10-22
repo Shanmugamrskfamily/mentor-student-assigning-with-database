@@ -6,7 +6,7 @@ This document provides essential information about the Assign Mentor API project
 
 ## Render URL
 
-- **URL:** https://assign-mentor-sqcw.onrender.com
+- **URL:** https://mentor-student-assign-guvi.onrender.com
 
 ## API Endpoints
 
@@ -14,7 +14,7 @@ This document provides essential information about the Assign Mentor API project
 
 This API endpoint allows you to create a new mentor with student details.
 
-**URL:** https://assign-mentor-sqcw.onrender.com/mentor
+**URL:** https://mentor-student-assign-guvi.onrender.com/mentor
 
 **Method:** POST
 
@@ -22,7 +22,7 @@ This API endpoint allows you to create a new mentor with student details.
 
 This API endpoint allows you to create a new student with mentor details.
 
-**URL:** https://assign-mentor-sqcw.onrender.com/student
+**URL:** https://mentor-student-assign-guvi.onrender.com/student
 
 **Method:** POST
 
@@ -30,7 +30,7 @@ This API endpoint allows you to create a new student with mentor details.
 
 This API endpoint allows you to assign a new students to mentor.
 
-**URL:** https://assign-mentor-sqcw.onrender.com/mentor/:mentorId/assign
+**URL:** https://mentor-student-assign-guvi.onrender.com/mentor/:mentorId/assign
 
 **Method:** POST
 
@@ -38,7 +38,7 @@ This API endpoint allows you to assign a new students to mentor.
 
 This API endpoint allows you to assign or change a new mentor to student.
 
-**URL:** https://assign-mentor-sqcw.onrender.com/student/:studentId/assignMentor/:mentorId
+**URL:** https://mentor-student-assign-guvi.onrender.com/student/:studentId/assignMentor/:mentorId
 
 **Method:** PUT
 
@@ -46,7 +46,7 @@ This API endpoint allows you to assign or change a new mentor to student.
 
 This API endpoint retrieves a list of all students for a particular mentor.
 
-**URL:** https://assign-mentor-sqcw.onrender.com/mentor/:mentorId/students
+**URL:** https://mentor-student-assign-guvi.onrender.com/mentor/:mentorId/students
 
 **Method:** GET
 
@@ -54,17 +54,17 @@ This API endpoint retrieves a list of all students for a particular mentor.
 
 This API endpoint retrieves a list of all previously assigned mentor for a particular student.
 
-**URL:** https://assign-mentor-sqcw.onrender.com/student/:studentId/pMentor
+**URL:** https://mentor-student-assign-guvi.onrender.com/student/:studentId/pMentor
 
 **Method:** GET
 
 ## GitHub Repository
 
-- **URL:** [https://github.com/anandhakumarmca/assign-mentor.git](https://github.com/anandhakumarmca/assign-mentor.git)
+- **URL:** [https://github.com/Shanmugamrskfamily/mentor-student-assigning-with-database.git](https://github.com/Shanmugamrskfamily/mentor-student-assigning-with-database.git)
 
 ## API Documentation
 
-- **URL:** [https://documenter.getpostman.com/view/593035/2s9YCBuUv7](https://documenter.getpostman.com/view/593035/2s9YCBuUv7)
+- **URL:** [https://documenter.getpostman.com/view/28858691/2s9YRCVW2M](https://documenter.getpostman.com/view/28858691/2s9YRCVW2M)
 
 ## Last Committed Hash ID
 
